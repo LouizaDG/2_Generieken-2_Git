@@ -1,0 +1,8 @@
+Wat is het verschil tussen:
+• List<ArrayList<?>>: een List van ArrayLists met een willekeurig type
+• List<List<?>>: een List van Lists met een willekeurig type
+• List<? extends List<?>>: een List met een List van een type dat een subklasse is van List met willekeurig type
+
+List<ArrayList< je kan het type willekeurig kiezen>>
+List<List< je kan het type willekeurig kiezen>>
+List<Subklasse van List< je kan het type willekeurig kiezen>>

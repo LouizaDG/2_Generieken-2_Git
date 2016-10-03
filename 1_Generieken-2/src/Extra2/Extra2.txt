@@ -1,0 +1,10 @@
+Als methodes werkwoorden zijn en klassen zelfstandige
+naamwoorden zijn, zijn generieken voorzetsels.
+Bedenk een generieke klasse of interface voor:
+• Van: scores is een lijst van getallen => List<T>
+• Met: mijnKaart is vergelijkbaar met Kaarten => …
+• In: …
+• Door
+• Voor
+• Per
+• Tussen
